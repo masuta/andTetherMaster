@@ -1,0 +1,61 @@
+10
+
+dir
+575
+http://android-wifi-tether.googlecode.com/svn/trunk/res
+http://android-wifi-tether.googlecode.com/svn
+
+
+
+2013-07-20T21:54:44.508721Z
+575
+harald.mue@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+58ca5e2c-0207-11de-85c2-bb0660c75f22
+
+values-v11
+dir
+
+values-de
+dir
+
+drawable-mdpi
+dir
+
+raw
+dir
+
+values-it
+dir
+
+layout
+dir
+
+values-zh-rCN
+dir
+
+values
+dir
+
+xml
+dir
+
+drawable
+dir
+
+drawable-hdpi
+dir
+
